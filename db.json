@@ -1,0 +1,364 @@
+{
+  "lotes": [
+        {
+            "id": "Frozen Yogurt",
+            "epc": [
+                {
+                  "id": 0,
+                  "epc_tag": "StRFTMlKvJDpOk1ucMxcIznM", 
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                }
+              ],
+            "invoice": []
+        },
+        {
+            "id": "Ice cream sandwich",
+            "epc": [
+                {
+                  "id": 0,
+                  "epc_tag": "VJqceCLcCD3wk5Xw4PWvTpVx", 
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 1,
+                  "epc_tag": "488DL1A1MjdCqLm8cQ23avLZ", 
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 2,
+                  "epc_tag": " nuxSQFmM6hoPTcTTtW0yL3DN", 
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 3,
+                  "epc_tag": " ex7hpM6VDi0vKLjuTSj2cCgF", 
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 4,
+                  "epc_tag": " q3lIXSyuWFWYk3BkJyxiyYB4",
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 5,
+                  "epc_tag": " c6k7teFkN94ii05453getZAG",
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 6,
+                  "epc_tag": " L9soWD36zClM6ixp8GcDYEvJ",
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                },
+                {
+                  "id": 7,
+                  "epc_tag": " lp8KyRkyrgE2M3zMhAsHmYfS",
+                  "created_at": "2022-03-07T17:22:16.554Z"
+                }
+              ],
+            "invoice": []
+        },
+        {
+            "id": "Eclair",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " qn3W0UHXiIvIjrSyAMa3xECj",
+              "created_at": "2022-03-07T17:22:16.554Z"
+            },
+            {
+              "id": 1,
+              "epc_tag": " 9roWTq8islVsvp2MaKsiqBE9",
+              "created_at": "2022-03-07T17:22:16.554Z"
+            },
+            {
+              "id": 2,
+              "epc_tag": " 4vemfFZlMX3cn9ojXEkzDKnt",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 3,
+              "epc_tag": " pqDIIOQZYenINKC1o6H1bofm",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 4,
+              "epc_tag": " E5HVATn7vdUa7mgaW7duKJ4u",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 5,
+              "epc_tag": " LQIiuq4UTKL1JErXGpFAyNcb",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 6,
+              "epc_tag": " IOHamrrDcykmahYMTuxBOUZ5",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 7,
+              "epc_tag": " NCJaltmojH0dBF7uP6RcoeSG",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 8,
+              "epc_tag": " 85Aua3LhHaJruLbaV81GuZO4",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        },
+        {
+            "id": "Cupcake",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " pR8mpGfeP2Kqt9rkiRvGtAyd",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        },
+        {
+            "id": "Gingerbread",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " YCFQLMQdzPzuI5UzovmrxO8d",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 1,
+              "epc_tag": " GRG5n0huPRHQIOcFNf7DAMIO",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 2,
+              "epc_tag": " IKHQWe81kJWdtAvzXDjBrKXu",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 3,
+              "epc_tag": " CJpJ4lXBdRYBwIKWSLquKYn6",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 4,
+              "epc_tag": " hxXVSYwcLKPARYCw9DEGMUHE",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        },
+        {
+            "id": "Jelly bean",
+            "epc": [
+                {
+                  "id": 0,
+                  "epc_tag": " wp0kITkKmXrMv5nsH5Ohd2ZO",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 1,
+                  "epc_tag": " hWMuepiZ5yFJ0iHSkixzBgDm",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 2,
+                  "epc_tag": " Eoj6dn4WZc3vc2p9nbWUi4P3",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 3,
+                  "epc_tag": " VivPUS8vG5e8IAs1OW0Gfydv",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 4,
+                  "epc_tag": " T53UnbRpZke0FFoAi4Q6U1Wq",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 5,
+                  "epc_tag": " BaNbhceNrInexjBFJ6tKjmVQ",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 6,
+                  "epc_tag": " 6MusnoXqNx1x5fQxcBFNbXAh",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 7,
+                  "epc_tag": " jlfPppKyD86k80enxB1QPJNF",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 8,
+                  "epc_tag": " G1lmFCMBcu4H336uvGpyisXj",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                }
+              ],
+            "invoice": []
+        },
+        {
+            "id": "Lollipop",
+            "epc": [
+                {
+                  "id": 0,
+                  "epc_tag": " L179R3IttiCd0NzlfrJTHp2k",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 1,
+                  "epc_tag": " A9rOEK7DPWuIV3LBlX6NLNKu",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 2,
+                  "epc_tag": " thyryZHPAyN2qpQ7kwIieQnH",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 3,
+                  "epc_tag": " SjUzeU5OoyUgbptqFC4wta7M",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 4,
+                  "epc_tag": " weq1htwZ417bcsDJjgUEXb8w",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 5,
+                  "epc_tag": " 0a4NdLi81xxNvLysaqrWxG0r",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                },
+                {
+                  "id": 6,
+                  "epc_tag": " tWvQfa3l8k8n9tnWCy4d91ye",
+                  "created_at": "2022-03-07T17:22:16.555Z"
+                }
+              ],
+            "invoice": []
+        },
+        {
+            "id": "Honeycomb",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " AlmDyxGMhhDtlO5g3Ib21MUO",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 1,
+              "epc_tag": " GH2EbyUSUESgnWQhYGrGRiVe",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 2,
+              "epc_tag": " KMYmxTZPJTkWAKOu7Ofu49hW",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 3,
+              "epc_tag": " pGztFoS6MB04elbPnnEW6a7B",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 4,
+              "epc_tag": " 62lAdjItrrHcsU5FSYWvCQd0",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 5,
+              "epc_tag": " ZUR192lVCI4JfLSxpxYQG09X",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 6,
+              "epc_tag": " ltYbwHDn69jSIuAbQCSxbMqI",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 7,
+              "epc_tag": " iJXgz8YBUymplZb9pK7DHq2z",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        },
+        {
+            "id": "Donut",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " j4KwCUzl6TxzVdsLclPvlrko",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 1,
+              "epc_tag": " 2URfzjmOu173J6AnA9nR3ZOR",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        },
+        {
+            "id": "KitKat",
+            "epc": [
+            {
+              "id": 0,
+              "epc_tag": " Qd4C5TfWZ6QZW9Kfk4WvLT9H",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 1,
+              "epc_tag": " 8ifPavhdaK1AKXYv65uVa3rF",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 2,
+              "epc_tag": " x00XRoSNvYZSdtEEM7120lx4",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 3,
+              "epc_tag": " n3c6ZrM5vNZHvGrUnpK97XtZ",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 4,
+              "epc_tag": " bCm6hN6k8c4G1I7KBuHLNz6y",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 5,
+              "epc_tag": " JSNOudHqRDZIf1nBzZOQhsY9",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 6,
+              "epc_tag": " DXCZIRFETsA0dOIxTnLL4enX",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 7,
+              "epc_tag": " jaeqQF0q4fiWRt1xDIR9mrF9",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 8,
+              "epc_tag": " h3fGO8f1JAsEGfJNVradRctp",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            },
+            {
+              "id": 9,
+              "epc_tag": " xzSv95pP2bjkDk4J0SEoV3Qi",
+              "created_at": "2022-03-07T17:22:16.555Z"
+            }
+          ],
+            "invoice": []
+        }
+  ]
+}
